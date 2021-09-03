@@ -36,6 +36,3 @@ function ListeElementsMultiplesDe2(tableau){
         return list
     }
 }
-
-
-console.log(ListeElementsMultiplesDe2([1,2,3,4]))
