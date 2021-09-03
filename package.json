@@ -1,8 +1,8 @@
 {
-  "name": "groupe_00002_e1730934_tp3",
+  "name": "groupe00002_e1730934_tp3",
   "version": "1.0.0",
   "description": "Application Web 01 - TP Javascript",
-  "main": "groupe_00002_e1730934_tp3.js",
+  "main": "groupe00002_e1730934_tp3.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
