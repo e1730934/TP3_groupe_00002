@@ -36,3 +36,7 @@ function ListeElementsMultiplesDe2(tableau){
         return list
     }
 }
+
+module.exports = {
+    Multiplier, Diviser, SommeDesElementsDuTableau, ListeElementsMultiplesDe2
+}
